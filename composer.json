@@ -1,9 +1,15 @@
 {
-  "scripts": {
+    "name": "laravel/laravel",
+    "description": "The rapidleech",
+    "keywords": ["leech", "rapid"],
+    "license": "MIT",
+    "type": "project",
+    "scripts": {
     "compile": [
-      "chmod -R 777 files/"
-      "chmod -R 777 configs/"
+      "chmod -R 777 files/",
+      "chmod -R 777 configs/",
       "chmod -R 777 rar/"
     ]
   }
+    
 }
